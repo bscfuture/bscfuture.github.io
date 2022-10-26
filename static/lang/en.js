@@ -41,7 +41,7 @@ module.exports = {
         f_34:'Buy the number',
         f_35:'Out of the number',
         f_36:'My invitation link',
-        f_37:'Copy invitation link ',
+        f_37:'Copy link ',
 
 
         f_38:'Node data',
@@ -73,7 +73,13 @@ module.exports = {
         f_59:' Global Partner',
         f_59_1:'Referees',
 
-
+        p_1:'Current order',
+        p_2:'Amount of my order',
+        p_3:'My number',
+        p_4:'Queuing fund utilization rate',
+        p_5:'Cumulative personal income',
+        p_6:'Cumulative node revenue',
+        // p_7:'当前排单号',
 
         f_60:'NFT card',
         f_61:'NFT total dividend(USDT)',
