@@ -100,12 +100,12 @@ module.exports = {
         f_75:'Time',
         
         f_76:'Important notice',
-        f_77:'In order to promote the better development of the project, FAN plans to launch FAN BANK and FOMO rewards. Please upgrade the data immediately!',
-        f_77_1:'1. The estimated completion time of the upgrade is 2022/8/28 22:00:00. Static income will not be calculated during the upgrade, and the entrance of income extraction and investment will be closed;',
+        f_77:'The Future project has completed the upgrading of the brand and the construction of the $45 million base pool. In order to promote the better development of the project, please immediately upgrade the data!',
+        f_77_1:'1. The estimated completion time of the upgrade is 24:00 on 2022/11/2. Data cannot be synchronized after expiration.',
         f_77_2:'2. Click the update button to complete the data synchronization of smart contract. If the data is not synchronized, the revenue will be forfeited.',
-        f_77_3:'3. After the upgrade, multiple investment records will be merged into one, and all income data and network data will be synchronized into the new contract;',
-        f_77_4:'4. After the upgrade, it will be open to re-investment with no limit on the amount of investment, and the investment entrance of 30%FAN+70%U will be retained. Please follow the official Twitter for more details.',
-        f_77_5:'The wait function has been upgraded. Thank you for your trust and support! - FAN DAO',
+        f_77_3:'3. All network data will be synchronized to the new contract after the upgrade;',
+        f_77_4:'4. Regular users will need 20% USDT to activate their accounts, please follow the official Twitter for more details.',
+        f_77_5:'The wait function has been upgraded. Thank you for your trust and support! A Future DAO',
         f_78:'Upgrade',
 
         f_79:'FOMO pool total revenue',
