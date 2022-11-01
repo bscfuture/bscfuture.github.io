@@ -79,7 +79,7 @@ module.exports = {
         p_4:'Queuing fund utilization rate',
         p_5:'Cumulative personal income',
         p_6:'Cumulative node revenue',
-        // p_7:'当前排单号',
+        p_7:'Activate account',
 
         f_60:'NFT card',
         f_61:'NFT total dividend(USDT)',
