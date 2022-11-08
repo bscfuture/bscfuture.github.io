@@ -150,6 +150,7 @@ module.exports = {
         accredit:"授权成功！",
         time:"分红倒计时",
         yu:"请输入100整数倍的USDT",
-        tips3:'敬请期待！'
+        tips3:'敬请期待！',
+        tips:'未升级合约的用户，请点击此处升级！'
     },
 };

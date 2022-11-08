@@ -145,6 +145,7 @@ module.exports = {
         accredit:"Authorization succeeded!",
         time:"Countdown to dividend",
         yu:"Enter a USDT multiple of 100",
-        tips3:'Stay tuned!'
+        tips3:'Stay tuned!',
+        tips:'Users who have not upgraded the contract, please click here to upgrade!'
     }
 };
