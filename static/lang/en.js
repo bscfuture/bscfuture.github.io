@@ -103,7 +103,7 @@ module.exports = {
         f_77:'The Future project has completed the upgrading of the brand and the construction of the $45 million base pool. In order to promote the better development of the project, please immediately upgrade the data!',
         f_77_1:'1. The estimated completion time of the upgrade is 24:00 on 2022/11/2. Data cannot be synchronized after expiration.',
         f_77_2:'2. Click the update button to complete the data synchronization of smart contract. If the data is not synchronized, the revenue will be forfeited.',
-        f_77_3:'3. All network data will be synchronized to the new contract after the upgrade;',
+        f_77_3:'3. All network data will be synchronized to the new contract after the upgrade;New Future address is: 0 xd47adda2a0491fda35892ddc0bc85bf01adec8d1',
         f_77_4:'4. Regular users will need 20% USDT to activate their accounts, please follow the official Twitter for more details.',
         f_77_5:'The wait function has been upgraded. Thank you for your trust and support! A Future DAO',
         f_78:'Upgrade',
